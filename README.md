@@ -1,9 +1,6 @@
 # Chat application
 
-Real-time to-do list application built using React.js for the frontend and Node.js with Express.js for the backend.
-The project uses Socket.IO for real-time updates, allowing users to see changes to the to-do list instantly. With
-this setup, users can add and remove tasks in real time. This project is a example of integrating a full-stack
-architecture using modern web technologies.
+Real-time Chat Application built using React.js for the frontend and Node.js with Express.js for the backend. The project utilizes Socket.IO to enable real-time communication, allowing users to send and receive messages instantly. With this setup, users can join chat rooms, send messages, and see updates from other participants in real time.
 
 The project consists of three pages: Login, Signup, and Chat.
 
